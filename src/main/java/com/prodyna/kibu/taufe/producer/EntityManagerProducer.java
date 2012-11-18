@@ -1,4 +1,4 @@
-package com.prodyna.kibu.taufe.util;
+package com.prodyna.kibu.taufe.producer;
 
 import javax.enterprise.inject.Produces;
 import javax.persistence.EntityManager;
